@@ -20,6 +20,8 @@ files/subjects.json
 files/users.json
 
 ### Node ###
+
+package-lock.json
 # Logs
 logs
 *.log
