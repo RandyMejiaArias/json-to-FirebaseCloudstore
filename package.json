@@ -9,7 +9,7 @@
   "author": "Randy Mejía Arias",
   "license": "ISC",
   "dependencies": {
-    "firebase": "^7.14.3",
+    "firebase": "^7.24.0",
     "firebase-admin": "^12.3.1"
   }
 }
